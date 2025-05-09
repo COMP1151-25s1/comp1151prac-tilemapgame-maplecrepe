@@ -334,6 +334,17 @@
    <object id="2" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
+ <tile id="112">
+  <properties>
+   <property name="unity:IsTrigger" value="true"/>
+   <property name="unity:layer" value="Hazard"/>
+  </properties>
+  <objectgroup draworder="index" id="2">
+   <object id="2" x="0" y="0">
+    <polygon points="0,0 8,0 8,4 16,4 16,16 4,16 4,12 0,12"/>
+   </object>
+  </objectgroup>
+ </tile>
  <tile id="148">
   <objectgroup draworder="index" id="2">
    <object id="1" x="0" y="0" width="16" height="16"/>
