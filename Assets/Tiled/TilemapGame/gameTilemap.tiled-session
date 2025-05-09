@@ -1,0 +1,42 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Tiled/sampleSheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled/tinyBattleTileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Tiled/tinyBattleTilesheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/home/mae/Documents/comp1151prac-tilemapgame-maplecrepe/Assets/Tiled/TilemapGame/Tilemap",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+    ],
+    "project": "gameTilemap.tiled-project",
+    "recentFiles": [
+        "Tiled/tinyBattleTileset.tsx",
+        "Tiled/tinyBattleTilesheet.tsx",
+        "Tiled/sampleSheet.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
